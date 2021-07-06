@@ -5,6 +5,11 @@
 - Online Discussion: https://statmodeling.stat.columbia.edu/2010/11/23/bayesian_adapti/
 
 ### Schedule: TBA, bi-weekly virtual meet-up
+- Session 1, week of July 19, 2021
+- Session 2, 
+- Session 3,
+- Session 4,
+- Session 5, 
 
 ### Tentative Reading Tasks
 
