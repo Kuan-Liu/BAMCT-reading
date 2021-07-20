@@ -1,15 +1,15 @@
 ## Bayesian Adaptive Methods for Clinical Trials (BAMCT) Reading Group
 
-- Book: [Bayesian Adaptive Methods for Clinical Trials by Berry, Carlin, Lee, and Müller (2010)](https://www.routledge.com/Bayesian-Adaptive-Methods-for-Clinical-Trials/Berry-Carlin-Lee-Muller/p/book/9781439825488)
+- Book: [Bayesian Adaptive Methods for Clinical Trials by Berry, Carlin, Lee, and Müller (2010)](https://www.routledge.com/Bayesian-Adaptive-Methods-for-Clinical-Trials/Berry-Carlin-Lee-Muller/p/book/9781439825488) **Avaliable via UT library**
 - Online Supplementary: https://www.counterpointstat.com/bayesian-adaptive-methods-for-clinical-trials.html
 - Online Discussion: https://statmodeling.stat.columbia.edu/2010/11/23/bayesian_adapti/
 
-### Schedule: TBA, bi-weekly virtual meet-up
-- Session 1, week of July 19, 2021
-- Session 2, 
-- Session 3,
-- Session 4,
-- Session 5, 
+### Schedule: Bi-weekly virtual meet-up
+- Session 1, July 20
+- Session 2, August 3
+- Session 3, August 17
+- Session 4, August 31
+- Session 5, Sep 14
 
 ### Tentative Reading Tasks
 
