@@ -11,6 +11,8 @@
 - Session 4, August 31
 - Session 5, Sep 14
 
+### Zoom link: https://utoronto.zoom.us/j/4173917756 (this is a new link)
+
 ### Tentative Reading Tasks
 
 - Discussion 1
