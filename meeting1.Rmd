@@ -81,4 +81,15 @@ Bayesian and type I error, https://www.fharrell.com/post/pvalprobs/
 5. Online Bayesian Phase I and II design apps, https://trialdesign.org/#newsSection
 
 
+# Discussions
+
+1. Example Bayesian trial, Advanced reperfusion strategies for patients with out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST): a phase 2, single centre, open-label, randomised controlled trial, https://doi.org/10.1016/S0140-6736(20)32338-2
+
+ - The use of potentially optimistic treatment effect target belief
+ - Cost of using ECMO versus control
+
+2. P-value versus Bayes factor, confidence interval versus credible region. (http://www.utstat.toronto.edu/mikevans/jeffrosenthal/chap7.pdf)
+
+
+
 
