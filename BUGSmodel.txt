@@ -1,0 +1,13 @@
+
+model{
+    for (i in 1:N){
+# Likelihood
+      Y[i]~dbern(p[i])
+      logit(p[i])<- (1/(gamma - Xmin))*(gamma*logit(rho0) 
+      - Xmin*logit(theta)+(logit(theta)-logit(rho0))*X[i])
+    }  #  end of for loop
+# Priors
+    gamma ~ dunif(Xmin, Xmax)
+    rho0 ~ dunif(0,theta)
+  }  #  end of BUGS code
+
