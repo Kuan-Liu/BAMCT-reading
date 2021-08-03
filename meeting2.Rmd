@@ -185,7 +185,7 @@ where $\pi_E^{*}$ represents the smallest acceptable efficacy response rate and 
 
 ## Additional Readings
 
-0. Review of current Phase I methods (recommanded), https://clincancerres.aacrjournals.org/content/24/18/4357
+0. Review of current Phase I methods (recommended), https://clincancerres.aacrjournals.org/content/24/18/4357
 1. Phase 0 (a proof of principle trial involving small number of patients), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902019/
 2. Seamless early-phase designs in oncology, https://academic.oup.com/jnci/article/111/2/118/5245491
 3. Model-assisted phase I design, Bayesian optimal interval design (BOIN) [(Liu and Yuan, 2015)](https://doi.org/10.1111/rssc.12089)
