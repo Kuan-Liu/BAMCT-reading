@@ -78,7 +78,7 @@ For targeted $\theta_L=0.10$ and $\theta_U=0.9$, PP is between the bounds which 
 
 - adaptive randomization on treatment arm can also be used for dose finding
 
-- outcome adaptive randomization
+- outcome adaptive randomization: making decision before all reponses are observed given existing information
 
 R resources:
 -  bayesCT package, [An R package for Simulation in Adaptive Bayesian Clinical Trials](https://cran.r-project.org/web/packages/bayesCT/vignettes/bayesCT.html)
